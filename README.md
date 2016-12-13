@@ -19,7 +19,7 @@ Though, we recommend that you learn git anyway.
 
 We use Cmake for our C++ projects, this allows users to build projects without distributing massive project files.
 
-You will need to download and install [CMake](https://cmake.org/download/). 3.5 or above!
+You will need to download and install [CMake](https://cmake.org/download/). 3.6 or above!
 Make sure you add CMake to your path. The installer will offer to add CMake to your path, but this may not always work.
 It can be added manually, but the steps for doing it depend on your operating system.
 A quick internet search should return plenty of examples on how to do this.
