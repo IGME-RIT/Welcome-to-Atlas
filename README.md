@@ -7,9 +7,9 @@ This is where all of our code lives!
 
 If you aren't familiar with git or github, you may want to read about them here:
 
-[Git](https://git-scm.com/book/en/v1/Getting-Started).
+[Git](https://git-scm.com/book/en/v1/Getting-Started)
 
-[Github](https://github.com/getting-started).
+[Github](https://github.com/getting-started)
 
 
 Github also allows the downloading of zip files for projects, which skips most of those steps.
