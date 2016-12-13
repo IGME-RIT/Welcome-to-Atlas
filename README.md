@@ -34,7 +34,4 @@ The script should create a build directory, and fill it with a bunch of Visual S
 
 ## Linux:
 
-```
-cd path/to/folder
-./setup
-```
+TBA
