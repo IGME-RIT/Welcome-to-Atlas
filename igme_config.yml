@@ -4,12 +4,10 @@ author:
   name: David Erbelding
   email: daviderbelding@gmail.com
   github: https://github.com/Erbelding
-description: This example will walk you through the basics of how to use Atlas.
+description: Click more for more info.
 language: 
 tags:
 extra_resources:
-  - link: https://www.visualstudio.com/vs/community/
-    title: Download Visual Studio Community Edition
-  - link: https://cmake.org/download/
-    title: Download CMake
+  - link: https://github.com/IGME-RIT/Welcome-to-Atlas
+    title: Clicking the image (or this link) will bring you to the Github page for this project.
 connections:
