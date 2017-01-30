@@ -1,7 +1,7 @@
 # Atlas
 
 Hello, and welcome to Atlas on Github.
-This is where all of our code lives! 
+This is where all of our code lives!
 
 # Getting Started
 
